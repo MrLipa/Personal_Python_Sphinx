@@ -1,0 +1,13 @@
+div.skipped.admonition {
+    background-color: rgb(251, 217, 133);
+}
+div.skipped.admonition p.admonition-title{
+    background-color: rgb(218, 146, 73) !important;
+}
+
+div.parametrize.admonition {
+    background-color: rgb(133, 229, 251);
+}
+div.parametrize.admonition p.admonition-title{
+    background-color: rgb(17, 97, 121) !important;
+}
